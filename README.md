@@ -36,4 +36,4 @@ Found an improvement or want to build on top of this? PRs welcome.
 
 ---
 
-Built with ❤️ by @diriyanafajar for the $SECONDS Dune Dashboard Contest.
+Built with ❤️ by @Bepple for the $SECONDS Dune Dashboard Contest.
